@@ -1,0 +1,9 @@
+#nav{
+    display:inline;
+}
+#nav p{
+    float:right;
+    text-align: right;
+    font-family: cormorant garamond;
+    color:#444444;
+}
